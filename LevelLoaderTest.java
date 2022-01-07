@@ -1,5 +1,3 @@
-package com.company;
-
 class Level {
     private int width;
     private int height;
